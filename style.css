@@ -1,0 +1,9 @@
+body{
+    background-color: darkblue;
+    color: #fff;
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+}
